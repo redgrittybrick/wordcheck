@@ -40,3 +40,23 @@ The output will be
      11 moose                          - Not in bip39 dictionary
      12 zoo                            - OK
      
+Why you can trust wordcheck
+---------------------------
+
+It is important never to let anyone else know your seed phrase.
+You can download the source-code for this program and read it.
+It is very short and easy to understand.
+
+You can download the Go programming-language compiler from https://golang.org/
+and use it to compile the source code `wordcheck.go` into the runnable
+program `wordcheck.exe`.
+
+If you trust me you can just download the executable `wordcheck.exe` into a
+folder on your Windows PC and run it from there. 
+
+You should be safe to run
+any program like this if you run it on a computer
+that is not connected to the Internet and if you enter your words in random
+order, or check them in small groups.
+If you compile the program from source code thattyou have read, 
+you don't need any precautions like this though.
