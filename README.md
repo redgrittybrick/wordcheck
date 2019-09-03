@@ -61,22 +61,3 @@ order, or check them in small groups.
 If you compile the program from source code thattyou have read, 
 you don't need any precautions like this though.
 
-----
-
-|Fruit|Price|
-|-----|-----|
-|Apple|20   |
-|Orange|15  |
-
-Other
-
-|-----|-----|
-|Apple|20   |
-|Orange|15  |
-
-Another
-
-|     |     |
-|-----|-----|
-|Apple|20   |
-|Orange|15  |
